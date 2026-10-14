@@ -1,0 +1,6 @@
+{
+  "name": "Carecor Office Escape Challenge",
+  "description": "An energetic office escape room adventure celebrating workplace values, teamwork, and excellence at Carecor.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
